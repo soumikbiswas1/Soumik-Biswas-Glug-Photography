@@ -1,0 +1,35 @@
+/* Home */
+#home{
+    height: 720px;
+    
+    
+}
+.navbar{
+    justify-content: center;
+    opacity: 0.8;
+    position: fixed;
+    z-index: 2;
+}
+
+.headings{
+    font-size: 1.4rem;
+}
+
+/* About */
+#pic img{
+    width: 200px;
+    height: 155px;
+}
+#intro h2{
+    font-size: 1.3rem;
+}
+/* Contact */
+.input{
+    width: 70%;
+}
+#msg{
+    width: 60%;
+}
+#send{
+    width: 20%;
+}
